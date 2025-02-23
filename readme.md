@@ -1,6 +1,11 @@
 # Classification Task
 
 
+<div align="center">
+<img height="300" width="800" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/classification.JPG">
+</div>
+
+
 ## Overview
 This repository contains the implementation of two classification models to predict a class for a new input. The task involves:
 1. Creating a classification model using **Algorithm 1**.
