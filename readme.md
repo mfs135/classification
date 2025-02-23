@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img height="300" width="800" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/classification.JPG">
+<img height="300" width="800" src="https://images.datacamp.com/image/upload/v1663850410/Machine_learning_classification_illustration_for_the_email_a993b8df37.png">
 </div>
 
 
