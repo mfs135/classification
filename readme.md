@@ -22,3 +22,7 @@ This repository contains the implementation of two classification models to pred
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
+
+git clone <repository-url>
+
+
